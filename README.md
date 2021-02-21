@@ -1,6 +1,6 @@
 # Dynamic Programming
 
-These exercices are aimed at practicing _dynamic programming_ using **memoization** and **tabulation**.
+These exercices are aimed at practicing **dynamic programming** using _memoization_ and _tabulation_.
 
 It is written in JavaScript.
 
