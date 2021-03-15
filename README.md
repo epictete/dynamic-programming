@@ -2,6 +2,9 @@
 
 These exercices are aimed at practicing **dynamic programming** using _memoization_ and _tabulation_.
 
+-   [x] [Memoization](./memoization)
+-   [ ] [Tabulation](./tabulation)
+
 It is written in JavaScript.
 
 #### Want to learn more ?
